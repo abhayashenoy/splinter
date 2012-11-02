@@ -1,0 +1,15 @@
+Flask==0.9
+Jinja2==2.6
+Werkzeug==0.8.3
+coverage==3.5.1
+cssselect==0.7.1
+lxml==2.3.1
+mechanize==0.2.5
+pytz==2012h
+selenium==2.25.0
+tornado==2.4
+wsgiref==0.1.2
+zope.event==4.0.0
+zope.interface==4.0.1
+zope.schema==4.2.0
+zope.testbrowser==4.0.2
